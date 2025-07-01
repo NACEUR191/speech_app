@@ -1,6 +1,7 @@
 import streamlit as st
 import speech_recognition as sr
 
+
 # App setup
 st.set_page_config(page_title="Online Speech Recognition", layout="centered")
 st.title("🎙️ Speech Recognition App")
